@@ -1,0 +1,15 @@
+*{
+    text-decoration: none;
+    
+}
+h1, h2{
+    color: white;
+}
+
+body{
+    background-color: rgba(33, 154, 224, 0.562);
+}
+
+.header {
+    text-align: center;
+}
